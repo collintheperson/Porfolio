@@ -1,0 +1,20 @@
+  .jumbotron {
+      text-align: center;
+      color: purple;
+      margin-left: 0px;
+}
+  jumbotron {
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  border: left
+}
+  img {
+    float: left;
+    height: 200px;
+    width: 150px;
+  }
+  body {
+  background-color: ffb3b3;
+  color: ffb3b3
+}
