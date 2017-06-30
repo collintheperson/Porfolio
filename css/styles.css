@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Reminder when to go back and either start over and use the jquery match-height*/
 
   .jumbotron {
@@ -15,20 +16,52 @@
     vertical-align: middle;
 }
   .gradient {
+=======
+  .jumbotron {
+      text-align: center;
+      color: purple;
+      margin-left: 0px;
+    }
+  img {
+    float: left;
+    height: 200px;
+    width: 150px;
+    margin-left: 175px;
+    margin-top: 15px;
+  }
+  #gradient {
+>>>>>>> ca8b426608510180ceeb5683f4825444cb977908
     background: linear-gradient(to right, #ffffcc 0%, #9966ff 100%);
 }
   body {
   background:linear-gradient() #ffb3b3;
   opacity: 20%;
+<<<<<<< HEAD
   font-family: sans-serif;
 }
+=======
+}
+/*.panel panel-info {
+  border: 4px;
+}*/
+>>>>>>> ca8b426608510180ceeb5683f4825444cb977908
 h2  {
   text-align: center;
   text-decoration: underline;
 }
+<<<<<<< HEAD
 
 /*@media screen and (max-width: 400px) {
   .gradient {
     background: linear-gradient(to bottom, #660033 0%, #ffcc66 100%; )
   }
+=======
+/*.container {
+    display: table;
+    width: 100%;
+}
+
+.row{
+    display: table-cell;
+>>>>>>> ca8b426608510180ceeb5683f4825444cb977908
 }*/
