@@ -7,15 +7,28 @@
     float: left;
     height: 200px;
     width: 150px;
-    margin-left: 150px;
+    margin-left: 175px;
     margin-top: 15px;
   }
+  #gradient {
+    background: linear-gradient(to right, #ffffcc 0%, #9966ff 100%);
+}
   body {
-  background-color: #ffb3b3;
+  background:linear-gradient() #ffb3b3;
+  opacity: 20%;
 }
-.panel panel-info {
+/*.panel panel-info {
   border: 4px;
-}
+}*/
 h2  {
   text-align: center;
+  text-decoration: underline;
 }
+/*.container {
+    display: table;
+    width: 100%;
+}
+
+.row{
+    display: table-cell;
+}*/
