@@ -1,0 +1,34 @@
+  .jumbotron {
+      text-align: center;
+      color: purple;
+      margin-left: 0px;
+    }
+  img {
+    float: left;
+    height: 200px;
+    width: 150px;
+    margin-left: 175px;
+    margin-top: 15px;
+  }
+  #gradient {
+    background: linear-gradient(to right, #ffffcc 0%, #9966ff 100%);
+}
+  body {
+  background:linear-gradient() #ffb3b3;
+  opacity: 20%;
+}
+/*.panel panel-info {
+  border: 4px;
+}*/
+h2  {
+  text-align: center;
+  text-decoration: underline;
+}
+/*.container {
+    display: table;
+    width: 100%;
+}
+
+.row{
+    display: table-cell;
+}*/
