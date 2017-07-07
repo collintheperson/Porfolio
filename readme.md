@@ -2,7 +2,7 @@
 
 ## Description
 
-_{This is a web portfolio meant to help show my current and future potential skills for interested employers.}_
+_{The link to my webpage is at collintheperson.github.io/portfolio. This is a web portfolio meant to help show my current and future potential skills for interested employers.}_
 
 
 ## Support and contact details
