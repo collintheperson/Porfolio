@@ -17,13 +17,15 @@ img {
 
 .jumbotron {
   text-align: center;
-  color: purple;
+  color: black;
   margin-left: 0px;
+  font-style: italic;
 }
 
 img {
   height: 200px;
   width: 150px;
+  float: right;
 }
 
 #gradient {
@@ -34,4 +36,9 @@ body {
   background:linear-gradient( #ffb3b3 0%,#ccff66;);
   opacity: 20%;
   font-family: sans-serif;
+}
+
+h2  {
+  text-align: center;
+  text-decoration: underline;
 }
